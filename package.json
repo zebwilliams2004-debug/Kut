@@ -1,0 +1,10 @@
+{
+  "name": "kut-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serverless backend for the Kut food tracker (AI photo, USDA, web push, Whoop, Apple Health sync).",
+  "dependencies": {
+    "web-push": "^3.6.7",
+    "@vercel/kv": "^2.0.0"
+  }
+}
